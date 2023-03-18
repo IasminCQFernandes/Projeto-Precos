@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@media screen and (max-width:768px) {
+
+#basic{
+    margin: 50px auto;
+    display: block;
+    width: 50vw;
+    
+}
+#standard{
+    margin: 50px auto;
+    display: block;
+}
+#premium{
+    margin: 50px auto;
+    display: block;
+}
+}
